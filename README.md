@@ -13,6 +13,10 @@
 ## Back-End Technologies:
 
 <code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416505/pngegg_6_aqtgzi.png" alt="Java"/></code>
+<code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416505/pngegg_5_q7pkcr.png" alt="Javascript"/></code>
+<code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416505/pngegg_smxkf8.png" alt="Docker"/></code>
+<code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416506/pngegg_1_clektt.png" alt="Git"/></code>
+
 <br>
 
 
