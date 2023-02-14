@@ -9,7 +9,13 @@
 <code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676417161/pngegg_10_vkos1h.png" alt="CSS"/></code>
 <code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416505/pngegg_5_q7pkcr.png" alt="NodeJs"/></code>
 <code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416506/pngegg_2_z5jbiq.png" alt="React"/></code>
+
+## Back-End Technologies:
+
+<code><img height="80" src="https://res.cloudinary.com/dsbj32b8r/image/upload/v1676416505/pngegg_6_aqtgzi.png" alt="Java"/></code>
 <br>
+
+
 
 <a href="https://github.com/JoseLuisHCode/JoseLuisHCode"><img alt="Jose Luis Herrera" src="https://github-readme-stats.vercel.app/api?username=JoseLuisHCode&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
 
